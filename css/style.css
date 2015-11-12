@@ -1,0 +1,30 @@
+.container {
+	text-align: center;
+}
+
+.face {
+	max-width: 250px;
+}
+
+.icon {
+	max-width: 60px;
+	padding: 0px 5px;
+}
+
+.about {
+	margin-top: 10%;
+}
+
+.info {
+	margin-left: auto;
+	margin: 0 auto;
+	float: none;
+}
+
+body {
+	background-color: #e5f3fe;
+}
+
+a {
+	text-decoration: none;
+}
