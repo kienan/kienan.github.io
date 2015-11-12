@@ -22,9 +22,17 @@
 }
 
 body {
-	background-color: #e5f3fe;
+	background-color: #C5EFF7;
 }
 
 a {
 	text-decoration: none;
+}
+
+h2 {
+	font-family: 'Lora', serif;
+}
+
+p {
+	font-family: 'Pontano Sans', sans-serif;
 }
