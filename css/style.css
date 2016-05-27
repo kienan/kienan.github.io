@@ -11,6 +11,10 @@
 	padding: 0px 5px;
 }
 
+.icon:hover {
+	opacity: 0.6;
+}
+
 .about {
 	margin-top: 10%;
 }
