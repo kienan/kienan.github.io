@@ -4,6 +4,7 @@
 
 .face {
 	max-width: 250px;
+  border-radius: 50%;
 }
 
 .icon {
