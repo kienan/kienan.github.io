@@ -1,43 +1,39 @@
 .container {
-	text-align: center;
+  text-align: center;
 }
 
 .face {
-	max-width: 250px;
+  max-width: 200px;
   border-radius: 50%;
 }
 
 .icon {
-	max-width: 60px;
-	padding: 0px 5px;
+  max-width: 40px;
+  padding: 0px 5px;
 }
 
 .icon:hover {
-	opacity: 0.6;
+  opacity: 0.6;
 }
 
 .about {
-	margin-top: 10%;
+  margin-top: 10%;
 }
 
 .info {
-	margin-left: auto;
-	margin: 0 auto;
-	float: none;
-}
-
-body {
-	background-color: #A2DED0;
+  margin-left: auto;
+  margin: 0 auto;
+  float: none;
 }
 
 a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 h2 {
-	font-family: 'Lora', serif;
+  font-family: 'Lora', serif;
 }
 
 p {
-	font-family: 'Pontano Sans', sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
 }
